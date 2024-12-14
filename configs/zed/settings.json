@@ -1,0 +1,43 @@
+{
+  "project_panel": {
+    "dock": "right"
+  },
+  "assistant": {
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "gpt-4o"
+    },
+    "version": "2"
+  },
+  "ui_font": "0xproto nerd font",
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Monospace dark"
+  },
+  "experimental.theme_overrides": {
+    "background.appearance": "blurred",
+    "background": "#0F111A90",
+    "editor.background": "#0F111A50",
+    "editor.gutter.background": "#0F111A50",
+    "tab_bar.background": "#0F111A50",
+    "terminal.background": "#0F111A50",
+    "toolbar.background": "#0F111A50",
+    "status_bar.background": "#0F111A50",
+    "panel.background": "#0F111A50",
+    "border.variant": "#0F111A50",
+    "scrollbar.track.border": "#0F111A50",
+    "editor.active_line.background": "#00000020",
+    "element.background": "#717CB420",
+    "editor.line_number": "#A0A0A0",
+    "editor.active_line_number": "#FFFFFF",
+    "text": "#babed890",
+    "text.muted": "#babed890",
+    "title_bar.background": "#0F111A50",
+    "title_bar.inactive_background": "#0F111A50",
+    "tab.active_background": "#0F111A50",
+    "tab.inactive_background": "#0F111A50"
+  }
+}

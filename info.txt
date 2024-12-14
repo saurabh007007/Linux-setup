@@ -1,0 +1,21 @@
+gtk- juno-ocean-v40
+
+theme name ocean - https://store.kde.org/p/1427568/
+
+cursor - lyrax
+
+icons - beautiline 
+
+
+goodbyeads list 
+
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
+
+https://github.com/jerryn70/GoodbyeAds
+
+free dns :- 
+
+https://docs.controld.com/docs/free-dns
+
+also google dns be used
+
