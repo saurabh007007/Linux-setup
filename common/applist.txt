@@ -25,7 +25,6 @@ zoxide
 ticktick
 telegram-desktop
 spicetify-cli
-ente-auth
 qbittorrent
 onefetch
 webapp-manager
