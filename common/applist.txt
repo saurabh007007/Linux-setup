@@ -11,7 +11,6 @@ github-cli
 nvm
 zoomo
 flatpak
-
 spotify
 partitionmanager
 inotify-tools
@@ -39,6 +38,7 @@ chatgpt-desktop-bin
 whatsdesk-bin
 fastfetch
 expect
+docker
 vesktop
 timeshift
 timeshift-autosnap
