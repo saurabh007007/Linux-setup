@@ -9,6 +9,7 @@ thunderbird
 noisetorch-bin
 github-cli
 nvm
+neofetch
 zoomo
 flatpak
 spotify
