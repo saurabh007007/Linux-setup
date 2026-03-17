@@ -1,0 +1,14 @@
+visual-studio-code
+hot
+docker-desktop
+telegram
+google-chrome
+iterm2
+discord
+obs
+notion
+slack
+postman
+sublime-text
+antigravity
+vlc

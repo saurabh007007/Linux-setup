@@ -1,5 +1,0 @@
-#window.blur = true
-window.opacity = 0.80
-font.normal.family = "0xProto Nerd Font Mono"
-
-font.size = 8
