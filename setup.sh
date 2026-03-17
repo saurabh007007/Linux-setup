@@ -149,7 +149,21 @@ EOF
 
 main() {
 	print_banner
-	echo "Starting MacOS Setup..."
+    echo "starting macsetp 152"
+    read -r -p "Please confirm (Y for yes, N for no): " confirm
+    case "${confirm}" in
+        Y|y)
+            echo "Confirmation received. Continuing setup..."
+            ;;
+        N|n)
+            echo "Setup cancelled by user."
+            exit 0
+            ;;
+        *)
+            echo "Invalid input. Please run again and enter Y or N."
+            exit 1
+            ;;
+    esac
     install_brew
     install_apps_from_list
     install_casks_from_list
