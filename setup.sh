@@ -13,9 +13,10 @@ print_banner() {
 |  \/  |  / \  / ___/ _ \/ ___|  / ___|| ____|_   _| | | |  _ \
 | |\/| | / _ \| |  | | | \___ \  \___ \|  _|   | | | | | | |_) |
 | |  | |/ ___ \ |__| |_| |___) |  ___) | |___  | | | |_| |  __/
-|_|  |_/_/   \_\____\___/|____/  |____/|_____| |_|  \___/|_|
+|_|  |_/_/   \_\____\___/|____/  |____/|_____| |_|  \___/|_|.      by Saurabh
 
-                by Saurabh
+                                                                    
+
 EOF
 }
 
@@ -149,7 +150,7 @@ EOF
 
 main() {
 	print_banner
-    echo "starting macsetp 152"
+    echo "Starting the MacOS setup..............."
     read -r -p "Please confirm (Y for yes, N for no): " confirm
     case "${confirm}" in
         Y|y)
